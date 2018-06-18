@@ -1,0 +1,27 @@
+{
+  "name": "uc-strings",
+  "version": "1.0.0",
+  "description": "Various functions to work with strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchainedui/strings.git"
+  },
+  "keywords": [
+    "unchained",
+    "ui",
+    "browser",
+    "strings",
+    "unicode",
+    "kiss"
+  ],
+  "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unchainedui/strings/issues"
+  },
+  "homepage": "https://github.com/unchainedui/strings#readme"
+}
