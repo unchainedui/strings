@@ -42,6 +42,10 @@ Optios are:
 
 * __zeroIsEmpty__ – boolean, default false. If true return empty string when number is zero.
 
+#### slugify(str)
+
+Returns slugified string
+
 License MIT
 
 © velocityzen
