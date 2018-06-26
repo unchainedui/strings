@@ -2,6 +2,9 @@
 
 ## Strings
 
+[![NPM Version](https://img.shields.io/npm/v/uc-strings.svg?style=flat-square)](https://www.npmjs.com/package/uc-strings)
+[![NPM Downloads](https://img.shields.io/npm/dt/uc-strings.svg?style=flat-square)](https://www.npmjs.com/package/uc-strings)
+
 Various functions to work with strings
 
 ### Usage
