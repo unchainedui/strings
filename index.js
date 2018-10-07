@@ -45,6 +45,6 @@ export function slugify(str) {
     .split('')
     .map(char => charMap[char] || char)
     .join('')
-    .replace(' ', '-')
-    .replace(/[^-a-z0-9]{1,60}/, '');
+    .replace(/ /ig, '-')
+    .replace(/[^-a-z0-9]{1,60}/ig, '');
 }
